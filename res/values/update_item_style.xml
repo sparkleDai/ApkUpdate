@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">      
+    <style name="update_item_textview">
+        <item name="android:layout_width">180px</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20px</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="update_item_button">
+        <item name="android:layout_width">180px</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20px</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>

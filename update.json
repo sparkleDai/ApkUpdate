@@ -1,0 +1,30 @@
+{
+	
+	"Items":[
+	{
+		"Name":"TestApk",
+		"FeaturePackage":"com.example.apkupdate",
+		"Version":2.1.1.8,
+		"Url":"http://192.168.1.5:9000/TestApk.apk"
+	},
+  	{
+		"Name":"TestApk2",
+		"FeaturePackage":"com.example.apkupdate",
+		"Version":1.1.1.9,
+		"Url":"http://192.168.1.5:9000/TestApk2.apk"
+	},
+	{
+		"Name":"TestApk3",
+		"FeaturePackage":"com.example.apkupdate3",
+		"Version":2.1.1.0,
+		"Url":"http://192.168.1.5:90008/TestApk3.apk"
+	},
+	{
+		"Name":"TestApk4",
+		"FeaturePackage":"com.example.apkupdate3",
+		"Version":2.1.1.3,
+		"Url":"http://192.168.1.5:9000/TestApk4.apk"
+	}
+	]
+	
+}
